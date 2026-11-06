@@ -1,6 +1,6 @@
 # CRM Pro — Lead Management System
 
-**Author:** Dhikshith Ram Poshala — B.E. CSE (AIML), St Mary's Engineering College, Hyderabad (2023–2027)
+**Author:** Dhikshith Ram Poshala — BTech CSE (AIML), St Mary's Engineering College, Hyderabad (2023–2027)
 **LinkedIn:** https://www.linkedin.com/in/poshala-dhikshith-ram-a422492b2 · **GitHub:** https://github.com/Rams1586
 
 A full-stack CRM application to manage leads end-to-end — from capture to conversion — with a React frontend, Node.js/Express API, MongoDB, and JWT authentication.
